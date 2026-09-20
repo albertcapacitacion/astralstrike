@@ -2,6 +2,10 @@
 
 A complete three-sector vertical arcade shooter. Three.js rendering, plain JavaScript simulation, Vite packaging, and offline PWA support. Original reference artwork is kept in `reference/`; runtime copies are in `public/assets/`.
 
+## Why this exists
+
+This is an educational project created to test GPT 6 Astra and to show Product AI students how quickly a working prototype can be built with OpenAI Codex. It was produced in a single, one-shot 40-minute work session. The asset artwork was publicly available and free to use; unfortunately, I no longer remember who the original author was.
+
 ## Run
 
 Node.js 22.12+ is recommended.
