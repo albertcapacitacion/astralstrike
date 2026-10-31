@@ -19,6 +19,8 @@
 
 > **Reference work for people starting AI projects.** This is an educational prototype showing what an AI-assisted workflow can produce. Use it to learn, experiment, and ask questions; it is not presented as a production template or a guide to best practices.
 
+> **Are you a beginner in AI? Get trained.** Contact: [albertcapacitaciondigital@gmail.com](mailto:albertcapacitaciondigital@gmail.com).
+
 A three-sector vertical arcade shooter with **Three.js rendering**, **plain JavaScript simulation**, **Vite packaging**, and **offline PWA support**. Fly with a keyboard or touch controls, collect upgrades, and break through three boss encounters.
 
 ## Gameplay
